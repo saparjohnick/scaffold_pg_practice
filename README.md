@@ -14,5 +14,6 @@ Things that were covered:
 * deployment on heroku
 
 
-Users: https://scaffoldtraining.herokuapp.com
+Users: https://scaffoldtraining.herokuapp.com 
+
 Microposts: https://scaffoldtraining.herokuapp.com/microposts
